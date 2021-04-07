@@ -1,0 +1,68 @@
+/* small monitor */
+@media (max-width: 1200px){
+    .main-menu .nav-link{
+        font-size: 15px;
+    }
+    .banner-content {
+        margin-top: 70px;
+    }
+    .banner-content h1 {
+        font-size: 70px;
+    }
+}
+
+@media (max-width: 991px){
+    .main-menu .nav-link{
+        font-size: 16px;
+    }
+}
+/* tab */
+@media (max-width: 768px){
+    .banner-content {
+        margin-top: 10px;
+    }
+    .banner-content h1 {
+        font-size: 65px;
+    }
+    .banner-section {
+        padding-bottom: 20px;
+    }
+    .little-aboutus, .services{
+        padding-bottom: 40px;
+    }
+    .footer-top h4{
+        margin-top: 20px;
+    }
+}
+/* mobile */
+@media (max-width: 768px){
+    .banner-content h1 {
+        font-size: 47px;
+    }
+}
+/* small mobile */
+@media (max-width: 497px){
+    .banner-content h1 {
+        font-size: 37px;
+    }
+}
+@media (max-width: 309px){
+    .header-top nav .nav-link {
+        font-size: 12px;
+    }
+}
+@media (max-width: 261px){
+    .header-top input.search-box{
+        width: 100%;
+    }
+    .header-middle .logo h1{
+        font-size: 25px;
+    }
+    .header-middle .logo h1::first-letter{
+        font-size: 35px;
+    }
+    .header-top input.submit {
+        top: 8.8px;
+        right: 2px;
+    }
+}
