@@ -127,9 +127,6 @@ img{
 .main-menu ul>li a:hover{
     color : #e03421 !important;
 }
-.main-menu ul>li a:focus{
-    color : #e03421 !important;
-}
 /* banner section */
 .banner-section img{
     width: 470px;
