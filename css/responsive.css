@@ -1,7 +1,7 @@
 /* small monitor */
 @media (max-width: 1200px){
     .main-menu .nav-link{
-        font-size: 15px;
+        font-size: 14px;
     }
     .banner-content {
         margin-top: 70px;
