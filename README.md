@@ -1,2 +1,2 @@
-# systematic-psd-to-html
+# Systematic (PSD to HTML)
 <p>"Systematic PSD to HTML" is a responsive website created by Sazidul Alam that showcases the meticulous conversion process from a PSD (Photoshop) design to a fully functional HTML and CSS website. The website serves as a demonstration of the developer's skills in front-end web development, highlighting the systematic approach taken to transform a visual design concept into a live web interface. Explore the various sections of the website to witness the precise implementation of design elements, responsive layouts, and interactive features. This project provides valuable insights into the art of translating static design compositions into dynamic web experiences</p>
